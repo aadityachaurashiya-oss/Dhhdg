@@ -1,0 +1,6 @@
+{
+  "name": "Librova",
+  "description": "Premium digital library and personal knowledge system featuring smooth PDF rendering, advanced highlighting, and real-time learning analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
